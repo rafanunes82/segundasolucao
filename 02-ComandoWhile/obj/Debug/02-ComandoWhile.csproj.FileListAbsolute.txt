@@ -1,0 +1,8 @@
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\02-ComandoWhile\obj\Debug\02-ComandoWhile.csproj.AssemblyReference.cache
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\02-ComandoWhile\obj\Debug\02-ComandoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\02-ComandoWhile\obj\Debug\02-ComandoWhile.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\02-ComandoWhile\bin\Debug\02-ComandoWhile.exe.config
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\02-ComandoWhile\bin\Debug\02-ComandoWhile.exe
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\02-ComandoWhile\bin\Debug\02-ComandoWhile.pdb
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\02-ComandoWhile\obj\Debug\02-ComandoWhile.exe
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\02-ComandoWhile\obj\Debug\02-ComandoWhile.pdb

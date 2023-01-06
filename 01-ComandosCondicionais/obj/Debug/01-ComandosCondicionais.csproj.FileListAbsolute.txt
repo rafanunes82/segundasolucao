@@ -1,0 +1,8 @@
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\01-ComandosCondicionais\bin\Debug\01-ComandosCondicionais.exe.config
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\01-ComandosCondicionais\bin\Debug\01-ComandosCondicionais.exe
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\01-ComandosCondicionais\bin\Debug\01-ComandosCondicionais.pdb
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\01-ComandosCondicionais\obj\Debug\01-ComandosCondicionais.csproj.AssemblyReference.cache
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\01-ComandosCondicionais\obj\Debug\01-ComandosCondicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\01-ComandosCondicionais\obj\Debug\01-ComandosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\01-ComandosCondicionais\obj\Debug\01-ComandosCondicionais.exe
+C:\Users\rafael\Desktop\ASP\SegundaSolucao\01-ComandosCondicionais\obj\Debug\01-ComandosCondicionais.pdb
